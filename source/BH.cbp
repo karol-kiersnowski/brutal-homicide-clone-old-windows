@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="BH" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="BH" prefix_auto="1" extension_auto="1" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+			</Target>
+		</Build>
+		<Linker>
+			<Add library="alleg" />
+		</Linker>
+		<Unit filename="calculate.h" />
+		<Unit filename="check.h" />
+		<Unit filename="classes.h" />
+		<Unit filename="display.h" />
+		<Unit filename="functions.h" />
+		<Unit filename="game.h" />
+		<Unit filename="global_variables.h" />
+		<Unit filename="go.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

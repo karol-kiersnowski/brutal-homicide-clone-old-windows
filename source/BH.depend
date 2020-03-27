@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1361484116 source:d:\dokumenty karola\c++\bh 1.1\source\main.cpp
+	<allegro.h>
+	"global_variables.h"
+	"map.h"
+	"functions.h"
+	"calculate.h"
+	"go.h"
+	"check.h"
+	"display.h"
+	"game.h"
+
+1361484514 d:\dokumenty karola\c++\bh 1.1\source\global_variables.h
+
+1352411218 d:\dokumenty karola\c++\bh 1.1\source\map.h
+
+1356043603 d:\dokumenty karola\c++\bh 1.1\source\functions.h
+
+1352412416 d:\dokumenty karola\c++\bh 1.1\source\calculate.h
+
+1361484057 d:\dokumenty karola\c++\bh 1.1\source\go.h
+
+1352568988 d:\dokumenty karola\c++\bh 1.1\source\check.h
+
+1352568734 d:\dokumenty karola\c++\bh 1.1\source\display.h
+
+1361484531 d:\dokumenty karola\c++\bh 1.1\source\game.h
+
+1365029516 source:d:\dokumenty karola\c++\bh v.1.0\source\main.cpp
+	<allegro.h>
+	"global_variables.h"
+	"classes.h"
+	"CPlayer.h"
+	"map.h"
+	"functions.h"
+	"calculate.h"
+	"go.h"
+	"check.h"
+	"display.h"
+	"game.h"
+
+1365029324 d:\dokumenty karola\c++\bh v.1.0\source\global_variables.h
+
+1352414818 d:\dokumenty karola\c++\bh v.1.0\source\map.h
+
+1356047203 d:\dokumenty karola\c++\bh v.1.0\source\functions.h
+
+1364411754 d:\dokumenty karola\c++\bh v.1.0\source\calculate.h
+
+1364411754 d:\dokumenty karola\c++\bh v.1.0\source\go.h
+
+1364411754 d:\dokumenty karola\c++\bh v.1.0\source\check.h
+
+1364411754 d:\dokumenty karola\c++\bh v.1.0\source\display.h
+
+1365028960 d:\dokumenty karola\c++\bh v.1.0\source\game.h
+
+1365029195 d:\dokumenty karola\c++\bh v.1.0\source\classes.h
+
+1365029708 d:\dokumenty karola\c++\bh v.1.0\source\cplayer.h
+
+1365029275 source:d:\dokumenty karola\c++\bh v.1.0\source\cplayer.cpp
+	"CPlayer.h"
+	"global_variables.h"
+
+1365029708 source:d:\dokumenty karola\c++\bh v.1.0\source\cworld.cpp
+	"CWorld.h"
+
+1365029647 d:\dokumenty karola\c++\bh v.1.0\source\cworld.h
+	"global_variables.h"
+
